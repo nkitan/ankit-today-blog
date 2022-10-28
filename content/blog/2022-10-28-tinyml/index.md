@@ -29,12 +29,12 @@ The most impressive part about TinyML is its abiity to peform tasks on unimpress
 
 ### Software Used for TinyML
 The most famous and widely used TinyML framework is **Tensorflow Lite** just like its machine learning counterpart. Tensorflow Lite provides tensorflow models that can be run on embedded devices using microcontrollers with small binaries. Other tools include **CoreML** which is a machine learning library from Apple and **PyTorch Mobile** which is a mobile version of the popular PyTorch deep learning library.
-{{ image(src="tfworkflow", alt="Tensorflow Lite Workflow") }} 
+{{ image(src="tfworkflow.png", alt="Tensorflow Lite Workflow") }} 
 
 ### Examples of TinyML in the real world
 an example of TinyML in the real world is the audio wake detection model used on android phones. Modern android phones can turn on when they hear "Ok Google". This is implemented using a TinyML model sized at **14Kb** which has been implemented to run on a DSP (Digital Signal Processor). Audio based mosquito detection is an interesting application of TinyML.
 
-{{ image(src="okgoogle.png", alt="Ok Google!") }} 
+{{ image(src="okgoogle.png", alt="Ok Google!" 100x100) }} 
 {{ image(src="audioword.png", alt="Audio Detection") }} 
 
 
