@@ -34,7 +34,7 @@ The most famous and widely used TinyML framework is **Tensorflow Lite** just lik
 ### Examples of TinyML in the real world
 an example of TinyML in the real world is the audio wake detection model used on android phones. Modern android phones can turn on when they hear "Ok Google". This is implemented using a TinyML model sized at **14Kb** which has been implemented to run on a DSP (Digital Signal Processor). Audio based mosquito detection is an interesting application of TinyML.
 
-{{ image(src="okgoogle.png", alt="Ok Google!" 100x100) }} 
+{{ image(src="okgoogle.png", alt="Ok Google!") }} 
 {{ image(src="audioword.png", alt="Audio Detection") }} 
 
 
