@@ -1,7 +1,7 @@
 # Ankit's Blog
 My Personal Blog
 
-Powered by Zola, Hosted on Netlify
+Powered by Zola, Hosted on Netlify  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7b543d14-06d0-4f79-bee6-cb9692860a2a/deploy-status)](https://app.netlify.com/sites/euphonious-cendol-b71f98/deploys)
 
 ## Development
